@@ -11,9 +11,7 @@ Measure and improve memory with scores.
 Great for students during short breaks!
 
 📂 Project Structure
-pgsql
-Copy
-Edit
+
 MemoryTrainer/
 ├── MemoryTrainer.java        (Main Game Runner)
 ├── GameEngine.java           (Core game logic)
